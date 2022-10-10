@@ -3,6 +3,11 @@
 - Expressions
 - Patters
 
+
+# Statements and Expressions
+
+## *To best understand how to read and interpret the syntax of Rust, we first need to understand the concepts of Statements, Expressions, and Patterns.*
+
 ## Statements
 
 A Statement is a segment of code that does not return any value. Statements are easy to identify as they end with a semicolon (;) to denote that nothing is returned.
